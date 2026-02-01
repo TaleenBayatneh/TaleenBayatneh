@@ -1,31 +1,31 @@
-# 👋 Hi, I'm Taleen Bayatneh  
+#  Hi, I'm Taleen Bayatneh  
 
-🎓 **Computer Engineering Student** at Birzeit University  
-💡 Interested in **Software Development, Web Applications, and Databases**  
-
----
-
-### 🚀 About Me  
-- 🌱 Currently learning more about: Backend development, databases, and software design  
-- 💬 Ask me about: Python, Flask, MySQL, HTML/CSS, and database systems  
-- 📫 Reach me at: taleenbayatneh0320@gmail.com  
+ **Computer Engineering Student** at Birzeit University  
+ Interested in **Software Development, Web Applications, and Databases**  
 
 ---
 
-### 📂 Projects I Worked On  
+###  About Me  
+-  Currently learning more about: Backend development, databases, and software design  
+-  Ask me about: Python, Flask, MySQL, HTML/CSS, and database systems  
+-  Reach me at: taleenbayatneh0320@gmail.com  
+
+---
+
+###  Projects I Worked On  
 
 | Project | Description | Technologies |
 |----------|--------------|---------------|
-| 💊 **Pharmacy Management System** | Designed and implemented a complete system to manage pharmacy operations including customers, pharmacists, prescriptions, orders, and inventory | Python, Flask, MySQL, HTML, CSS |
-| 🌐 **Computer Networks Web Server** | Developed a custom HTTP web server supporting concurrent connections and file serving with different status codes | Python |
-| 🔁 **Peer-to-Peer (P2P) Messaging Application** | Built a UDP-based peer-to-peer system for real-time message broadcasting and logging | Python, UDP |
-| 🧠 **Image Classification Project** | Compared Decision Tree, Naive Bayes, and Feedforward Neural Network models on image datasets and evaluated their performance | Python, Machine Learning |
-| 🗄️ **Database Systems Projects** | Designed relational databases, applied normalization, and wrote SQL queries for academic projects | MySQL, SQL Server |
-| 🌍 **Web Development Projects** | Developed simple and responsive web interfaces for university assignments | HTML, CSS |
+|  **Pharmacy Management System** | Designed and implemented a complete system to manage pharmacy operations including customers, pharmacists, prescriptions, orders, and inventory | Python, Flask, MySQL, HTML, CSS |
+|  **Computer Networks Web Server** | Developed a custom HTTP web server supporting concurrent connections and file serving with different status codes | Python |
+|  **Peer-to-Peer (P2P) Messaging Application** | Built a UDP-based peer-to-peer system for real-time message broadcasting and logging | Python, UDP |
+|  **Image Classification Project** | Compared Decision Tree, Naive Bayes, and Feedforward Neural Network models on image datasets and evaluated their performance | Python, Machine Learning |
+|  **Database Systems Projects** | Designed relational databases, applied normalization, and wrote SQL queries for academic projects | MySQL, SQL Server |
+|  **Web Development Projects** | Developed simple and responsive web interfaces for university assignments | HTML, CSS |
 
 ---
 
-### 🛠️ Languages & Tools  
+###  Languages & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -38,5 +38,5 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+ **Thanks for visiting my profile!**  
 Feel free to explore my repositories and projects.
