@@ -1,4 +1,4 @@
-#  Hi, I'm Taleen Bayatneh  
+#  Hi, I'm Talin Bayatneh  
 
  **Computer Engineering Student** at Birzeit University  
  Interested in **Software Development, Web Applications, and Databases**  
@@ -12,18 +12,6 @@
 
 ---
 
-###  Projects I Worked On  
-
-| Project | Description | Technologies |
-|----------|--------------|---------------|
-|  **Pharmacy Management System** | Designed and implemented a complete system to manage pharmacy operations including customers, pharmacists, prescriptions, orders, and inventory | Python, Flask, MySQL, HTML, CSS |
-|  **Computer Networks Web Server** | Developed a custom HTTP web server supporting concurrent connections and file serving with different status codes | Python |
-|  **Peer-to-Peer (P2P) Messaging Application** | Built a UDP-based peer-to-peer system for real-time message broadcasting and logging | Python, UDP |
-|  **Image Classification Project** | Compared Decision Tree, Naive Bayes, and Feedforward Neural Network models on image datasets and evaluated their performance | Python, Machine Learning |
-|  **Database Systems Projects** | Designed relational databases, applied normalization, and wrote SQL queries for academic projects | MySQL, SQL Server |
-|  **Web Development Projects** | Developed simple and responsive web interfaces for university assignments | HTML, CSS |
-
----
 
 ###  Languages & Tools  
 
