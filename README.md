@@ -120,13 +120,6 @@ I'm a Computer Engineering student at **Birzeit University** with a passion for 
 
 ---
 
-## 📊 GitHub Statistics
-
-![Talin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaleenBayatneh&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaleenBayatneh&layout=compact&hide_border=true&langs_count=8)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing interesting projects, collaboration opportunities, or just talking tech!
