@@ -1,4 +1,4 @@
-# Hi there, I'm Taleen Bayatneh 👋
+# Hi there, I'm Talin Bayatneh 👋
 
 **Computer Engineering Student** at **Birzeit University**
 
